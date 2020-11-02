@@ -572,9 +572,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   plane: {fileID: 825415029}
   distanceUp: 2
-  distanceAway: 10
+  distanceAway: 1
   distanceback: 6
-  smooth: 2
+  smooth: 1
 --- !u!1 &673814960
 GameObject:
   m_ObjectHideFlags: 0
